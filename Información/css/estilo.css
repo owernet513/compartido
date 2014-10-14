@@ -1,13 +1,9 @@
 @CHARSET "ISO-8859-1";
-#head{
-	
-}
-#bo1{
-	
-}
-#foot{
-	
-}
+
 body{
-	background-image: url('../img/fondo1366.png');
+	color: white;
+	background-image: url("../img/fondo1366.png");
+}
+a{
+	color: green;
 }
